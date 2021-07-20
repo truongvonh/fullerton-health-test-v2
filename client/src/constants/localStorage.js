@@ -1,0 +1,4 @@
+export const AUTH_KEY = {
+  USER_LOGIN: 'USER_LOGIN',
+  USER_TOKEN: 'USER_TOKEN',
+}
